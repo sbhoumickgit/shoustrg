@@ -1,1 +1,1 @@
-useradd -m -p \"sa3tHJ3/KuYvI\" murex2
+useradd -m -p "sa3tHJ3/KuYvI" murex2
